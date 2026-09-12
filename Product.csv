@@ -1,0 +1,16 @@
+ProductID,ProductName,Price,Stock
+1,Laptop,60000.00,10
+2,Smartphone,25000.00,20
+3,Keyboard,1200.00,50
+4,Mouse,700.00,40
+5,Monitor,15000.00,15
+6,Headphones,2500.00,30
+7,Printer,8500.00,8
+8,"USB Cable",400.00,60
+9,Webcam,3200.00,12
+10,Speaker,4500.00,18
+11,Tablet,18000.00,10
+12,"Power Bank",1500.00,25
+13,SSD,6500.00,14
+14,Pendrive,900.00,35
+15,Router,2200.00,20
