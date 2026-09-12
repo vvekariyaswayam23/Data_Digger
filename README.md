@@ -216,7 +216,7 @@ The project uses `SUM()` and `GROUP BY` to analyze revenue and product quantitie
 <img width="1076" height="719" alt="Screenshot 2026-09-12 103937" src="https://github.com/user-attachments/assets/b46f6ebb-2ab2-4e64-8479-60fe1f38315c" />
 
 
-> 📌 **Note:** Put the five provided screenshots inside a `screenshots` folder in your GitHub repository and rename them to `Screenshot-1.png` through `Screenshot-5.png`.
+
 
 GitHub supports relative image paths in README files, which makes repository screenshots easy to display. citeturn0search0turn0search2
 
@@ -225,9 +225,9 @@ GitHub supports relative image paths in README files, which makes repository scr
 ## 🎥 Project Video
 
 ▶️ **Watch the SQL Project Demo:**  
-[🎬 Click Here to Watch the Video](YOUR_VIDEO_LINK_HERE)
+[🎬 Click Here to Watch the Video](https://1drv.ms/v/c/add06c1d01a88aae/IQDoiR74mVdeTbmIpPG1HWKTAY6ZlmZVMpWzcm6EjpftjNY?e=MwkJ93)
 
-> 🔗 Replace `YOUR_VIDEO_LINK_HERE` with your YouTube, Google Drive, or other video link.
+
 
 ---
 
