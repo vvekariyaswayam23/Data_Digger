@@ -225,7 +225,7 @@ GitHub supports relative image paths in README files, which makes repository scr
 ## 🎥 Project Video
 
 ▶️ **Watch the SQL Project Demo:**  
-[🎬 Click Here to Watch the Video](https://1drv.ms/v/c/add06c1d01a88aae/IQDoiR74mVdeTbmIpPG1HWKTAY6ZlmZVMpWzcm6EjpftjNY?e=MwkJ93)
+[🎬 Click Here to Watch the Video](https://1drv.ms/v/c/add06c1d01a88aae/IQCDcDmcYxqkR4cEyxvVp7NyAb65G0d8ZUvVoARDZFtOHtE?e=LdMICP)
 
 
 
